@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gtarideshare.github.io/gta-private-car-tours/sitemap.xml
